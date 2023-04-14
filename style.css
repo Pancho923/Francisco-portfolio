@@ -244,7 +244,7 @@ form input, form textarea{
 /* CSS FOR SMALL SCREENS */
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url("./images/F4BC24E1-E2A2-4656-81E6-38EFFCA9FB28_1_105_c.jpeg");
+        background-image: url(Images/Header.jpeg);
     }
     .header-text{
         margin-top: 100%;
